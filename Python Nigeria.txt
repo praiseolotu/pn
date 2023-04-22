@@ -1,0 +1,6 @@
+* HOME
+home__social
+<in view>
+
+home__description
+Python Nigeria is a community where techies who use Python Programming Language and her related Frameworks and Libraries can interact and network amongst themselves
