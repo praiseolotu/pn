@@ -10,3 +10,4 @@
 - [x] Created a nice animation effects
 - [x] Added Introductory content
 - [x] Added members testimonies
+- [ ] Add members image
